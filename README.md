@@ -1,13 +1,17 @@
 # Movie-List-App-with-Swift
-Editor->Embed In->Navigation Controller 'dan Bir navigation Controller ekledik. Bu sayede ileri ve geri tuşları ekranın üst kısmında belirmiş oldu.
-
-<img width="421" alt="Ekran Resmi 2022-06-22 10 30 04" src="https://user-images.githubusercontent.com/96236352/174970146-d35ff1ea-3490-4c23-b553-947f15c4fd62.png">
 
 Projede istenen 3 view controller olmasıydı. Bu vc'lardan biri kullanıcı kaydı yapıyor ve diğer sayfaya aldığı verileri alıp birkaç şartı kontrol ediyordu.
 
 İkinci vc'larda kayıt olan kullanıcıdan tekrardan giriş yapması isteniyor ve önceki sayfadaki bilgilerle uyuşup uyuşmadığı kontrol ediliyor. Aynı zamanda 2 koşulun kabul edilmesine bağlı 2 tane button var. Labellardan biri ilk şartı kabul ettikten sonra görünür oluyor.
 
 Son view controller da table view kullanıyoruz. Table view ekrana ayarlanan yerlerde liste görünümünü verir.
+
+
+
+Editor->Embed In->Navigation Controller 'dan Bir navigation Controller ekledik. Bu sayede ileri ve geri tuşları ekranın üst kısmında belirmiş oldu.
+
+<img width="421" alt="Ekran Resmi 2022-06-22 10 30 04" src="https://user-images.githubusercontent.com/96236352/174970146-d35ff1ea-3490-4c23-b553-947f15c4fd62.png">
+
 
 
 VİEW CONTROLLER 
